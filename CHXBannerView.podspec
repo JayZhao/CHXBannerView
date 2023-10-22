@@ -9,11 +9,11 @@ idot. WTF, description can not shoter than summary. I wrote, can you realize
 those word is all blah
                    DESC
 
-  s.homepage     = "https://github.com/showmecode/CHXBannerView"
+  s.homepage     = "https://github.com/cuzv/CHXBannerView"
   s.license      = "MIT"
   s.author             = { "Moch" => "atcuan@gmail.com" }
-  s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/showmecode/CHXBannerView.git",
+  s.platform     = :ios, "15.0"
+  s.source       = { :git => "https://github.com/cuzv/CHXBannerView",
 :tag => s.version.to_s }
   s.requires_arc = true
   s.source_files  = "CHXBannerView/Source/*"
